@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRMEducacional", "CRMEducacional.csproj", "{665663EE-1C4F-4604-9179-3E4F148A7A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMEducacional.Test", "..\CRMEducacional.Test\CRMEducacional.Test.csproj", "{FD58D5B6-08A0-4EDC-8732-0CA484AAC240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665663EE-1C4F-4604-9179-3E4F148A7A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665663EE-1C4F-4604-9179-3E4F148A7A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665663EE-1C4F-4604-9179-3E4F148A7A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665663EE-1C4F-4604-9179-3E4F148A7A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD58D5B6-08A0-4EDC-8732-0CA484AAC240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD58D5B6-08A0-4EDC-8732-0CA484AAC240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD58D5B6-08A0-4EDC-8732-0CA484AAC240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD58D5B6-08A0-4EDC-8732-0CA484AAC240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52456BCF-01F7-4DDB-8420-B34B31AAC9A9}
+	EndGlobalSection
+EndGlobal
